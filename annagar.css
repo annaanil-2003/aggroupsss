@@ -1,0 +1,349 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.image{
+    width: 100%;
+    height: 700px;
+}
+nav{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background: rgba(8, 109, 207,0.3);
+}
+nav ul{
+    text-align: end;
+    float: right;
+    display: flex;
+    margin-top: 40px;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    margin: 60px;
+    color: #ffffff;
+    font-family: Magic Hour;
+}
+.head1{
+    font-size: 70px;
+    color: #ffffff;
+    margin-top: -250px;
+    margin-left: 100px;
+    font-family: Magic Hour;
+}
+.head2{
+    font-size: 55px;
+    color: #ffffff;
+    margin-left: 100px;
+    margin-top: -45px;
+    font-family: sans-serif
+}
+.but{
+    width: 280px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: -40px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(255, 255, 255,0.1);
+    color: #ffffff;
+}
+.container{
+    width: 100%;
+    height: 700px;
+    background: #086bcf;
+    margin-top: -50px;
+}
+.head3{
+    text-align: center;
+    font-size: 100px;
+    color: #e00b6f;
+    font-family: Magic Hour;
+}
+
+.box{
+    width: 270px;
+    height: 60px;
+    border-color: white;
+    background-color: rgba(255, 255, 255,0.1);
+    color: white;
+    margin-top: 50PX;
+    font-size: 50px;
+    font-family: Magic Hour;
+    margin-left: -410px;
+    border-width: 5px;
+}
+.container1{
+    width: 100%;
+    height: 700px;
+}
+.container2{
+    width: 100%;
+    height: 700px;
+    background: white;
+    font-family: Segoe UI;
+    margin-top: -20px;
+}
+ul li{
+    list-style: none;
+    margin-top: 10px;
+}
+.image1{
+    width: 275px;
+    height: 400px;
+    margin-left: 135px;
+}
+.image2{
+    width: 275px;
+    height: 400px;
+    margin-left: 135px;
+}
+.image3{
+    width: 275px;
+    height: 400px;
+    margin-left: 135px;
+}
+.box1{
+    width: 275px;
+    height: 100px;
+    color: black;
+    margin-top: -105px;
+    background: rgba(15, 19, 26,0.5);
+    margin-left: 135px;
+    position: absolute;
+}
+.para1{
+    margin-left: 50px;
+    font-size: 15px;
+    color: white;
+    font-family: segoe ui;
+}
+.but1{
+    margin-top: -80px;
+    background-color: #086bcf;
+    border: #086bcf;
+    margin-left: 80px;
+}
+.but2{
+    margin-top: -80px;
+    background-color: #086bcf;
+    border: #086bcf;
+}
+.but3{
+    margin-top: -80px;
+    background-color: #086bcf;
+    border: #086bcf;
+}
+.but4{
+    margin-top: -80px;
+    background-color: #086bcf;
+    border: #086bcf;
+}
+.par1{
+    margin-left: 110px;
+    font-size: 15px;
+    color: white;
+    font-family: segoe ui;
+    margin-top: -10px;
+}
+.box2{
+    width: 275px;
+    height: 100px;
+    color: black;
+    margin-top: -105px;
+    background: rgba(15, 19, 26,0.5);
+    margin-left: 549px;
+    position: absolute;
+}
+.para2{
+    margin-left: 50px;
+    font-size: 15px;
+    color: white;
+    font-family: segoe ui;
+}
+.par2{
+    margin-left: 110px;
+    font-size: 15px;
+    color: white;
+    font-family: segoe ui;
+    margin-top: -10px;
+}
+.box3{
+    width: 275px;
+    height: 100px;
+    color: black;
+    margin-top: -105px;
+    background: rgba(15, 19, 26,0.5);
+    margin-left: 962px;
+    position: absolute;
+}
+.para3{
+    margin-left: 50px;
+    font-size: 15px;
+    color: white;
+    font-family: segoe ui;
+}
+.par3{
+    margin-left: 110px;
+    font-size: 15px;
+    color: white;
+    font-family: segoe ui;
+    margin-top: -10px;
+}
+.head4{
+    font-size: 30px;
+    margin-left: 100px;
+}
+.s1{
+    margin-left: 100px;
+    font-size:20px;
+}
+.head5{
+    font-size: 30px;
+    margin-left: 500px;
+    margin-top: -150px;
+}
+.s2{
+    margin-left: 500px;
+    font-size: 20px;
+}
+.head6{
+    font-size: 30px;
+    margin-left: 900px;
+    margin-top: -290px;
+}
+.s3{
+    margin-left: 900px;
+    font-size: 20px;
+}
+.image4{
+    width: 100%;
+    height: 700px;
+}
+.image5{
+    height: 150px;
+    width: 250px;
+    margin-left: 70px;
+}
+.image6{
+    height: 100px;
+    width: 250px;
+    margin-left: 70px;
+}
+.s{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 20px;
+}
+.he3{
+    color: white;
+    font-size: 90px;
+    position: absolute;
+    font-family: Segoe UI;
+    margin-top: -500px;
+    margin-left: 90px;
+}
+.container3{
+    width: 630px;
+    height: 700px;
+    background: rgba(42, 95, 146,0.7);
+    font-family: Segoe UI;
+    position: absolute;
+    margin-left: 745px;
+    margin-top: -700px;
+}
+.he2{
+    margin-top: 300px;
+    font-family: Magic Hour;
+    color: #e00b6f;
+    font-size: 90px;
+    margin-left: 60px;
+}
+.butt1{
+    border-color: white;
+    border-width: 2px;
+    background-color: rgba(42, 95, 146,0.4);
+    font-size: 30px;
+    color: white;
+    width: 500px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 65px;
+}
+
+@media screen and (max-width: 600px)
+{
+    .image{
+        width: 1140px;
+    }
+    nav{
+        position: absolute;
+        width: 1140px;
+        height: 100px;
+        background: rgba(8, 109, 207,0.3);
+    }
+    .head1{
+        font-size: 60px;
+    }
+    .head2{
+        font-size: 45px;
+    }
+    .container{
+        width: 1140px;
+    }
+    .head3{
+        margin-top: 100px;
+    }
+    .image1{
+    width: 275px;
+    height: 400px;
+    margin-left: 75px;
+}
+.image2{
+    width: 275px;
+    height: 400px;
+    margin-left: 75px;
+}
+.image3{
+    width: 275px;
+    height: 400px;
+    margin-left: 75px;
+}
+    .box1{
+        margin-left: 75px;
+    }
+    .box2{
+        margin-left: 427px;
+    }
+    .box3{
+        margin-left: 783px;
+    }
+    .box{
+        margin-left: -350px;
+    }
+    .image4{
+        width: 1140px;
+    }
+    .container3{
+        margin-left: 510px;
+        width: 630px;
+    }
+    .container2{
+        width: 1140px;
+    }
+    .image5{
+        height: 70px;
+        width: 200px;
+        margin-left: 70px;
+    }
+    .image6{
+        height: 30px;
+        width: 200px;
+        margin-left: 70px;
+    }
+}
